@@ -1,0 +1,15 @@
+ulke = input("Olay hangi ülkede geçsin? ")
+gun = input("Olay hangi günde geçsin? ")
+a = input("İlk karakterin adı ne olsun? ")
+b = input("İkinci karakterin adı ne olsun? ")
+
+
+print("Bir zamanlar",ulke,"ülkesinde",gun,"gününde",a,"ile",b,"ormanda yürüyorlardı. Aniden bir ses duydular. " )
+hayvan = input("Ses hangi hayvana ait olsun? ")
+print("Bu bir",hayvan,"dı. Hemen bu",hayvan,"dan kaçmak için orman boyunca koştular ve ")
+yer = input("Karakterler nereye varsın? ")
+print("bir",yer,"ye vardılar. Bu",yer,"in sahibi")
+sahip = input("Bu yerin sahibi kim olsun? ")
+print("acımasız",sahip,"di ve misafirlerden hiç hoşlanmazdı bu yüzden",a,"ve",b)
+araç = input("Karakterler eve nasıl dönsün? ")
+print("birlikte",araç,"larını kullanarak hızlıca eve döndüler ve bir daha ormana gitmediler!!!")
